@@ -21,7 +21,7 @@ var S = {
       S.UI.simulate(decodeURI(action).substring(i + 3));
     } else {
       S.UI.simulate(
-        "3|2|1|❤宝贝|别眨眼|❤"
+        "3|2|1|❤|猛子|❤"
       );
     }
 
